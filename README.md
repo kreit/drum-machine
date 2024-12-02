@@ -20,7 +20,7 @@ The first thing to do for this assignment is to improve the metronome. Right now
 
 #### 1B: Metronome count
 
-Additionally, let's display the current count in the metronome. This count should start at 1 and increment everytime the metronome ticks. After 4, it whould reset back to 1.
+Additionally, let's display the current count in the metronome. This count should start at 1 and increment every time the metronome ticks. After 4, it would reset back to 1.
 
 `i.e.: 1 2 3 4 1 2 3 4 ...`
 
